@@ -1,10 +1,39 @@
 body{
 	margin: 0;
 	padding: 0;
+	background: #f2f2f2;
 }
 
 /* MENU */
 h1{
-	color: red;
+	color: #1eaedb;
 }
 /* FIM DOMENU */
+
+.cat-git {
+	width: 52px;
+	height: 52px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.octocat {
+	border: 0;
+	color: #f4f5f6;
+	fill: #1eaedb;
+	height: 5.2rem;
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 5.2rem;
+	z-index: 2;
+}
+
+.octocat  .octocat-body {
+	fill: #f4f5f6;
+}
+
+.octocat .octocat-arm {
+	fill: #f4f5f6;
+}
