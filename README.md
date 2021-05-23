@@ -5,7 +5,7 @@
 <p>that's for those who wants to add styles on a website faster and easer!</p>
 <p>It's simple to understand the class' names, just download and get started!</p>
 
-<a align="center" href="https://default-css.netlify.app/"><img width="100%" src="https://i.imgur.com/q2tuoJE.png" alt="Default-css - A simple responsive framework"></a>
+<a align="center" href="https://default-css.netlify.app/" target="_new"><img width="100%" src="https://i.imgur.com/q2tuoJE.png" alt="Default-css - A simple responsive framework"></a>
 
 ## Download
 
